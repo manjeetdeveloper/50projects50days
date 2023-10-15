@@ -3,6 +3,11 @@
 This is one of my early projects created alongside with Udemy course:  [Build Responsive Real World Websites with
 HTML5 and CSS3](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/). Although there are many templates out there we can use for building amazing websites, I have learned so much from building the website from scratch.
 
+### This is the main repository for all of the projects in the course.
+
+* [Course Link](https://www.udemy.com/course/50-projects-50-days/).
+
+
 ### [View Live Demo](https://manjeetdeveloper.github.io/50-Projects-Web-Development/)
 
 #### Kindly note that the the purpose of this project is to focus on building a small smnall websites like build a  big projects using this projects, without incorporating certain functionalities (e.g handling contact form) for the time being.
