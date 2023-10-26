@@ -1,20 +1,22 @@
 const insert = document.getElementById('insert')
 
+
+// this event key is denotye by  after click any where press keyboard  then work 
 window.addEventListener('keydown', (event) => {
   insert.innerHTML = `
   <div class="key">
   ${event.key === ' ' ? 'Space' : event.key} 
-  <small>event.key</small>
+  <b>event.key</b>
 </div>
 
 <div class="key">
   ${event.keyCode}
-  <small>event.keyCode</small>
+  <b>event.keyCode</b>
 </div>
 
 <div class="key">
   ${event.code}
-  <small>event.code</small>
+  <b>event.code</b>
 </div>
   `
 })
